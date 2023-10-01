@@ -32,14 +32,14 @@ To start playing "A New Trip," follow these simple steps:
 2. Launch the game by running the main executable file.
 
 ## Gameplay
-Use the arrow keys to control your hero's movement.
-Watch out for traps and obstacles, and avoid them to stay alive.
-Collect as many fruits as possible to earn points.
-Reach the destination to unlock the next scene and face new challenges.
+* Use the arrow keys to control your hero's movement.
+* Watch out for traps and obstacles, and avoid them to stay alive.
+* Collect as many fruits as possible to earn points.
+* Reach the destination to unlock the next scene and face new challenges.
 
 ## Development Details
-Language: C#
-Game Engine: Unity
+* **Language**: C#
+* **Game Engine**: Unity
 
 ## Demo Video
 Watch a demo of "My First Game" in action on YouTube: [Demo Video](https://youtu.be/XZeAFUkQwYI)
