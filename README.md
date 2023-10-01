@@ -25,7 +25,7 @@ To start playing "A New Trip," follow these simple steps:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/my-first-game.git
+   git clone https://github.com/yourusername/a-new-trip.git
  
 1. Open the game directory.
 
